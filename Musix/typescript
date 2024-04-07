@@ -62,4 +62,20 @@ remote: This repository moved. Please use the new location:[K
 remote:   https://github.com/tommyboiii004/NM_musicApp.git[K
 To https://github.com/tommyboiii004/Musix.git
    45fbb89..6b07623  main -> main
+[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hgit pushcommit -m "changes to search folder"[36Dadd .                               [31D[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hgit add .push commit -m "changes to search folder"" " " " "  "       [8D"   [8D"        [9Da"d"d"e"d" "s"c"r"e"e"n" "s"h"o"r"t"s"[?1l>[?2004l
+]2;git commit -m "added screen shorts"]1;git[main deb7dbf] added screen shorts
+ 2 files changed, 25 insertions(+), 1 deletion(-)
+[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hggit push[?1l>[?2004l
+]2;git push]1;gitEnumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects:  20% (1/5)Compressing objects:  40% (2/5)Compressing objects:  60% (3/5)Compressing objects:  80% (4/5)Compressing objects: 100% (5/5)Compressing objects: 100% (5/5), done.
+Writing objects:  20% (1/5)Writing objects:  40% (2/5)Writing objects:  60% (3/5)Writing objects:  80% (4/5)Writing objects: 100% (5/5)Writing objects: 100% (5/5), 1.43 KiB | 1.43 MiB/s, done.
+Total 5 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/4)[Kremote: Resolving deltas:  25% (1/4)[Kremote: Resolving deltas:  50% (2/4)[Kremote: Resolving deltas:  75% (3/4)[Kremote: Resolving deltas: 100% (4/4)[Kremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[K
+remote: This repository moved. Please use the new location:[K
+remote:   https://github.com/tommyboiii004/NM_musicApp.git[K
+To https://github.com/tommyboiii004/Musix.git
+   6b07623..deb7dbf  main -> main
 [1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h
