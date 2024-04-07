@@ -23,6 +23,12 @@ Musix is a
 ## Installation
 
 1. Clone the repository
+2. cd into the parent "Musix" directory
+
+```
+cd Musix
+```
+
 2. Install the requirements(command: pip install Django)
 3. Run the server(command: python3 manage.py runserver)
 
