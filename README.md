@@ -29,8 +29,25 @@ Musix is a
 cd Musix
 ```
 
-2. Install the requirements(command: pip install Django)
-3. Run the server(command: python3 manage.py runserver)
+3. Install the requirements
+
+```
+pip install Django
+```
+
+4. Run the server
+   For Mac and Linux:
+
+```
+python3 manage.py runserver
+
+```
+
+For Windows:
+
+```
+python3 manage.py runserver
+```
 
 ## Usage
 
