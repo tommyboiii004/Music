@@ -41,7 +41,6 @@ For Mac and Linux:
 
 ```
 python3 manage.py runserver
-
 ```
 
 For Windows:

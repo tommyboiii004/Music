@@ -1,81 +1,0 @@
-Script started on Mon Apr  8 01:51:51 2024
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J[01;32m➜  [36mMusix[00m [K[?1h=[?2004h[0m[27m[24m[J[01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [Klls[?1l>[?2004l
-]2;ls -G]1;ls[1m[36mMusix[39;49m[0m      db.sqlite3 [31mmanage.py[39;49m[0m  [1m[36mmusic[39;49m[0m      [1m[36mplayer[39;49m[0m     [1m[36msearch[39;49m[0m     typescript
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J[01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hccd M[?1l>[?2004l
-]2;cd M]1;cdcd: no such file or directory: M
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J[01;31m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hccd Musi[?1l>[?2004l
-]2;cd Musi]1;cdcd: no such file or directory: Musi
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J[01;31m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hccd Musix[8D        [8Dppwd[?1l>[?2004l
-]2;pwd]1;pwd/Users/thomastharun/Desktop/NM_app/Musix
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J[01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hppipenv scrtypescript[1m [0m[18D                 [0m [18Dppipenv script[?1l>[?2004l
-]2;pipenv script]1;pipenvUsage: pipenv [OPTIONS] COMMAND [ARGS]...
-Try 'pipenv -h' for help.
-
-Error: No such command 'script'.
-
-Did you mean one of these?
-    scripts
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J[01;31m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hpipenv scriptript ript Sriptcript[?1l>[?2004l
-]2;pipenv Script]1;pipenvUsage: pipenv [OPTIONS] COMMAND [ARGS]...
-Try 'pipenv -h' for help.
-
-Error: No such command 'Script'.
-
-Did you mean one of these?
-    scripts
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J[01;31m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hpipenv Scripts[5Cs[?1l>[?2004l
-]2;pipenv scripts]1;pipenvCommand  Script
--------  ------
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J[01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[H[2J[0m[27m[24m[J[01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [Klls[?1l>[?2004l
-]2;ls -G]1;ls[1m[36mMusix[39;49m[0m      db.sqlite3 [31mmanage.py[39;49m[0m  [1m[36mmusic[39;49m[0m      [1m[36mplayer[39;49m[0m     [1m[36msearch[39;49m[0m     typescript
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J[01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hccd ..[?1l>[?2004l
-]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app]1;..esktop/NM_app]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app\[0m[27m[24m[J[01;32m➜  [36mNM_app[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[1m[36mMusix[39;49m[0m        Pipfile      Pipfile.lock README.md
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app]1;..esktop/NM_app]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app\[0m[27m[24m[J[01;32m➜  [36mNM_app[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hppipenv shell[?1l>[?2004l
-]2;pipenv shell]1;pipenvLaunching subshell in virtual environment...
- . /Users/thomastharun/.local/share/virtualenvs/NM_app-GshbO6sh/bin/activate
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app]1;..esktop/NM_app]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app\[0m[27m[24m[J[01;32m➜  [36mNM_app[00m [K[?1h=[?2004h  . /Users/thomastharun/.local/share/virtualenvs/NM_app-GshbO6sh/bin/activate[?1l>[?2004l
-]2;. /Users/thomastharun/.local/share/virtualenvs/NM_app-GshbO6sh/bin/activate]1;.[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app]1;..esktop/NM_app]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app\[0m[27m[24m[J(NM_app) [01;32m➜  [36mNM_app[00m [K[?1h=[?2004h[0m[27m[24m[J(NM_app) [01;32m➜  [36mNM_app[00m [01;34mgit:([31mmain[34m) [33m✗[00m [Kccd N c  ccd Musix[1m/[0m[0m [?1l>[?2004l
-]2;cd Musix]1;cd[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[1m[36mMusix[39;49m[0m      db.sqlite3 [31mmanage.py[39;49m[0m  [1m[36mmusic[39;49m[0m      [1m[36mplayer[39;49m[0m     [1m[36msearch[39;49m[0m     typescript
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[H[2J[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [Kggit add .[?1l>[?2004l
-]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hggit commit -m ""c"h"a"n"g"e"s" "t"o" "s"e"a"r"c"h" "f"o"l"d"e"r"[?1l>[?2004l
-]2;git commit -m "changes to search folder"]1;git[main 6b07623] changes to search folder
- 10 files changed, 41 insertions(+)
- create mode 100644 Musix/search/.DS_Store
- create mode 100644 Musix/search/music/Another-Love.mp3
- create mode 100644 Musix/search/music/No-Role-Modelz.mp3
- create mode 100644 Musix/search/music/The-Night-We-Met.mp3
- delete mode 100644 Musix/search/music/avengers.mp3
- delete mode 100644 Musix/search/music/joker.mp3
- delete mode 100644 Musix/search/music/rock.mp3
- create mode 100644 Musix/typescript
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hggit push[?1l>[?2004l
-]2;git push]1;gitEnumerating objects: 18, done.
-Counting objects:   5% (1/18)Counting objects:  11% (2/18)Counting objects:  16% (3/18)Counting objects:  22% (4/18)Counting objects:  27% (5/18)Counting objects:  33% (6/18)Counting objects:  38% (7/18)Counting objects:  44% (8/18)Counting objects:  50% (9/18)Counting objects:  55% (10/18)Counting objects:  61% (11/18)Counting objects:  66% (12/18)Counting objects:  72% (13/18)Counting objects:  77% (14/18)Counting objects:  83% (15/18)Counting objects:  88% (16/18)Counting objects:  94% (17/18)Counting objects: 100% (18/18)Counting objects: 100% (18/18), done.
-Delta compression using up to 8 threads
-Compressing objects:   8% (1/12)Compressing objects:  16% (2/12)Compressing objects:  25% (3/12)Compressing objects:  33% (4/12)Compressing objects:  41% (5/12)Compressing objects:  50% (6/12)Compressing objects:  58% (7/12)Compressing objects:  66% (8/12)Compressing objects:  75% (9/12)Compressing objects:  83% (10/12)Compressing objects:  91% (11/12)Compressing objects: 100% (12/12)Compressing objects: 100% (12/12), done.
-Writing objects:   8% (1/12)Writing objects:  16% (2/12)Writing objects:  25% (3/12)Writing objects:  33% (4/12)Writing objects:  41% (5/12)Writing objects:  50% (6/12)Writing objects:  58% (7/12)Writing objects:  66% (8/12)Writing objects:  75% (9/12), 6.19 MiB | 12.38 MiB/sWriting objects:  75% (9/12), 7.14 MiB | 5.64 MiB/s Writing objects:  75% (9/12), 9.58 MiB | 4.18 MiB/sWriting objects:  75% (9/12), 14.77 MiB | 4.46 MiB/sWriting objects:  83% (10/12), 14.77 MiB | 4.46 MiB/sWriting objects:  91% (11/12), 14.77 MiB | 4.46 MiB/sWriting objects: 100% (12/12), 14.77 MiB | 4.46 MiB/sWriting objects: 100% (12/12), 16.53 MiB | 4.44 MiB/s, done.
-Total 12 (delta 4), reused 0 (delta 0), pack-reused 0
-remote: Resolving deltas:   0% (0/4)[Kremote: Resolving deltas:  25% (1/4)[Kremote: Resolving deltas:  50% (2/4)[Kremote: Resolving deltas:  75% (3/4)[Kremote: Resolving deltas: 100% (4/4)[Kremote: Resolving deltas: 100% (4/4), completed with 3 local objects.[K
-remote: This repository moved. Please use the new location:[K
-remote:   https://github.com/tommyboiii004/NM_musicApp.git[K
-To https://github.com/tommyboiii004/Musix.git
-   45fbb89..6b07623  main -> main
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hgit pushcommit -m "changes to search folder"[36Dadd .                               [31D[?1l>[?2004l
-]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hgit add .push commit -m "changes to search folder"" " " " "  "       [8D"   [8D"        [9Da"d"d"e"d" "s"c"r"e"e"n" "s"h"o"r"t"s"[?1l>[?2004l
-]2;git commit -m "added screen shorts"]1;git[main deb7dbf] added screen shorts
- 2 files changed, 25 insertions(+), 1 deletion(-)
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hggit push[?1l>[?2004l
-]2;git push]1;gitEnumerating objects: 9, done.
-Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
-Delta compression using up to 8 threads
-Compressing objects:  20% (1/5)Compressing objects:  40% (2/5)Compressing objects:  60% (3/5)Compressing objects:  80% (4/5)Compressing objects: 100% (5/5)Compressing objects: 100% (5/5), done.
-Writing objects:  20% (1/5)Writing objects:  40% (2/5)Writing objects:  60% (3/5)Writing objects:  80% (4/5)Writing objects: 100% (5/5)Writing objects: 100% (5/5), 1.43 KiB | 1.43 MiB/s, done.
-Total 5 (delta 4), reused 0 (delta 0), pack-reused 0
-remote: Resolving deltas:   0% (0/4)[Kremote: Resolving deltas:  25% (1/4)[Kremote: Resolving deltas:  50% (2/4)[Kremote: Resolving deltas:  75% (3/4)[Kremote: Resolving deltas: 100% (4/4)[Kremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[K
-remote: This repository moved. Please use the new location:[K
-remote:   https://github.com/tommyboiii004/NM_musicApp.git[K
-To https://github.com/tommyboiii004/Musix.git
-   6b07623..deb7dbf  main -> main
-[1m[7m%[27m[1m[0m                                                                                                            ]2;thomastharun@Thomass-MacBook-Air:~/Desktop/NM_app/Musix]1;../NM_app/Musix]7;file://Thomass-MacBook-Air.local/Users/thomastharun/Desktop/NM_app/Musix\[0m[27m[24m[J(NM_app) [01;32m➜  [36mMusix[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h
