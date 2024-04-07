@@ -34,7 +34,7 @@
     <div
       class="container mx-auto px-4 py-16 flex flex-col items-center justify-center h-full"
     >
-      <h1 class="text-3xl font-bold mb-4 text-white">Welcome to Musix</h1>
+      <h1 class="text-3xl font-bold mb-6 text-white">Welcome to Musix</h1>
       <p class="text-gray-400 mb-8">Listen to your favorite songs</p>
       <form
         action="{% url 'search' %}"
@@ -71,22 +71,6 @@
             <h3 class="text-white text-lg font-bold mb-2">
               {{ song.title }} - {{ song.artist }}
             </h3>
-            <button
-              id="playButton{{ song.id }}"
-              type="button"
-              class="playButton{{ song.id }} text-white hover:text-gray-400 bg-green-500 rounded-full px-3 py-1 font-medium"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="16"
-                height="16"
-                fill="currentColor"
-                class="bi bi-play"
-                viewBox="0 0 16 16"
-              >
-                <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM9.5 5v6l6-3z" />
-              </svg>
-            </button>
             <a
               href="{{ song.song_file }}"
               download="{{ song.title }}.mp3"
