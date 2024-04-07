@@ -36,7 +36,8 @@ pip install Django
 ```
 
 4. Run the server
-   For Mac and Linux:
+
+For Mac and Linux:
 
 ```
 python3 manage.py runserver
