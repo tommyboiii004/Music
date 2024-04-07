@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>VibeShift - Watch Later</title>
+  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-800 text-white h-screen min-h-screen">
+  <nav class="bg-gray-900 shadow-md px-4 py-2 fixed w-full top-0 z-50 flex justify-between items-center">
+    <a href="{% url 'home' %}" class="text-white font-bold text-xl">VibeShift</a>
+    {% if user.is_authenticated %}
+      <a href="" class="text-white hover:text-gray-400">{{ user.username }}</a>
+      <a href="{% url 'logout' %}" class="text-white hover:text-gray-400">Logout</a>
+    {% else %}
+      <a href="{% url 'login' %}" class="text-white hover:text-gray-400">Login</a>
+      <a href="{% url 'register' %}" class="text-white hover:text-gray-400">Register</a>
+    {% endif %}
+  </nav>
+
+  <main class="container mx-auto px-4 py-16 flex flex-col items-center">
+
+    <h1 class="text-3xl font-bold mb-4 text-white">Your Watch Later List</h1>
+
+    <ul class="list-disc space-y-2 text-gray-400 text-base">
+      {% for song in watch_later_songs %}
+      <li>
+        <a>{{ song.song.title }}</a> - {{ song.song.artist }}
+      </li>
+      {% endfor %}
+      {% if not watch_later_songs %}
+        <p class="text-gray-400">Your Watch Later list is empty.</p>
+      {% endif %}
+    </ul>
+
+  </main>
+
+  <footer class="bg-gray-900 text-gray-400 text-center py-4">
+    <p>&copy; {{ year }} VibeShift</p>
+  </footer>
+</body>
+</html>
